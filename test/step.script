@@ -1,0 +1,4 @@
+git add test/
+git commit
+git remote add fold https://github.com/zhengyabiao/folder.git
+git push -u fold master
